@@ -1,0 +1,15 @@
+Fold 0
+Fold 0
+Fold 0
+Model 0 best validation auc = 0.895043 on epoch 28
+Model 0 test auc = 0.940887
+Model 0 test accuracy = 0.962085
+Ensemble test auc = 0.940887
+Ensemble test accuracy = 0.962085
+Fold 1
+Model 0 best validation auc = 0.815368 on epoch 23
+Model 0 test auc = 0.873984
+Model 0 test accuracy = 0.966825
+Ensemble test auc = 0.873984
+Ensemble test accuracy = 0.966825
+Fold 2

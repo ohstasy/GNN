@@ -1,0 +1,29 @@
+Fold 0
+Model 0 best validation auc = 0.969573 on epoch 17
+Model 0 test auc = 0.960591
+Model 0 test accuracy = 0.976303
+Ensemble test auc = 0.960591
+Ensemble test accuracy = 0.976303
+Fold 1
+Model 0 best validation auc = 0.946932 on epoch 9
+Model 0 test auc = 0.905691
+Model 0 test accuracy = 0.971564
+Ensemble test auc = 0.905691
+Ensemble test accuracy = 0.971564
+Fold 2
+Model 0 best validation auc = 0.802650 on epoch 17
+Model 0 test auc = 0.843902
+Model 0 test accuracy = 0.976303
+Ensemble test auc = 0.843902
+Ensemble test accuracy = 0.976303
+3-fold cross validation
+	Seed 42 ==> test auc = 0.960591
+	Seed 42 ==> test accuracy = 0.976303
+	Seed 43 ==> test auc = 0.905691
+	Seed 43 ==> test accuracy = 0.971564
+	Seed 44 ==> test auc = 0.843902
+	Seed 44 ==> test accuracy = 0.976303
+Overall test auc = 0.903395 +/- 0.047666
+Overall test accuracy = 0.974724 +/- 0.002234
+Elapsed time = 0:07:24
+Fold 0
